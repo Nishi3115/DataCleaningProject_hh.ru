@@ -1,10 +1,10 @@
 # Проект №1 Анализ резюме из HeadHunter
 ## Оглавление
 
-[1. Описание проекта](https://github.com/Nishi3115/DataCleaningProject_hh.ru/README.md#Описание-проекта)  
-[2. Краткая информация о данных](https://github.com/Nishi3115/DataCleaningProject_hh.ru/README.md#Краткая-информация-о-данных)  
-[3. Этапы работы](https://github.com/Nishi3115/DataCleaningProject_hh.ru/README.md#Этапы-работы)  
-[4. Результаты](https://github.com/Nishi3115/DataCleaningProject_hh.ru/README.md#Результаты)  
+[1. Описание проекта](https://github.com/Nishi3115/DataCleaningProject_hh.ru?tab=readme-ov-file/README.md#Описание-проекта)  
+[2. Краткая информация о данных](https://github.com/Nishi3115/DataCleaningProject_hh.ru?tab=readme-ov-file/README.md#Краткая-информация-о-данных)  
+[3. Этапы работы](https://github.com/Nishi3115/DataCleaningProject_hh.ru?tab=readme-ov-file/README.md#Этапы-работы)  
+[4. Результаты](https://github.com/Nishi3115/DataCleaningProject_hh.ru?tab=readme-ov-file/README.md#Результаты)  
 
 ### Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, как вы знаете, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
